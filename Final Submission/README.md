@@ -12,3 +12,5 @@ Data preprocess
 Analysis_1: Whole image analysis
 
 Analysis_2: Subimages analysis
+
+Analysis_pipeline: Analysis pileline
